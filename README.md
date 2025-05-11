@@ -4,4 +4,4 @@ Name: Hammad Arain
 <br>
 Software Engineer
 <br>
-Sindh Uni
+Flutter Developer
